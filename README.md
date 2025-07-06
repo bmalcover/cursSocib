@@ -2,8 +2,8 @@
 Material docent curs SOCIB Juny 2025
 
 Bloc machine learning impartit per: 
-- Xavia Varona
-- Aina Tur
+- Xavi Varona Gómez
+- Aina Tur Serrano
   
 En aquest mòdul s'impartiran els següents continguts:
 
