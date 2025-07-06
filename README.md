@@ -1,6 +1,19 @@
 # cursSocib
 Material docent curs SOCIB Juny 2025
 
+Bloc machine learning impartit per: 
+- Xavia Varona
+- Aina Tur
+  
+En aquest mòdul s'impartiran els següents continguts:
+
+- **Bloc 1**: Introducció al Machine Learning.
+- **Bloc 2**: Models Linears
+- **Bloc 3**: Support Vector Machine
+- **Bloc 4**: Models d'arbres
+- **Bloc 5**: Models generatius
+- **Bloc 6**: Aprenentatge no supervisat.
+
 Bloc d'aprenentatge automàtic impartit per:
 
 - Dr. Miquel Miró Nicolau
