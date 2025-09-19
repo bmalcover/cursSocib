@@ -1,4 +1,8 @@
-# cursSocib
+<div style="text-align: center;">
+        <img src="./assets/header.jpg" />
+</div>
+
+# Microdencial Universitària. Intel·ligència Artificial per aplicacions en Oceanografia i Clima
 Material docent curs SOCIB Juny 2025
 
 Bloc machine learning impartit per: 
@@ -38,3 +42,7 @@ En aquest mòdul s'impartiran els següents continguts:
   - Seqüències i aprenentatge profund: Seq2Seq.
   - RNN.
   - LSTM.
+
+<div style="text-align: center;">
+        <img src="./assets/footer.png" />
+</div>
